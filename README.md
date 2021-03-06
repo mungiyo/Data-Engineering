@@ -59,4 +59,4 @@
 - **SQL**로 집계한 결과를 스크립트로 처리하고자 할 때도 유용.
 - 빅데이터 분석도 결국  **'이와 같은 것을 어떻게 대규모로 실행할 것인가?'** 하는 문제다.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0c08cb41-8c7c-40e1-95a4-872ac10cbbd8/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0c08cb41-8c7c-40e1-95a4-872ac10cbbd8/Untitled.png)
+![image](https://user-images.githubusercontent.com/74698443/110198239-561e0680-7e94-11eb-8376-4cf1f3361400.png)
